@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Rasmus P
+
+I’m a full-stack developer from Denmark🇩🇰 with a passion for building seamless and engaging web experiences. I enjoy navigating the space between elegant frontends and solid backend architecture—bringing ideas to life with both creativity and precision.
+
+Driven by curiosity and a love for lifelong learning, I’m always exploring new technologies and sharing insights with others.
+I use HTML, CSS, JavaScript and TypeScript. While I adapt my focus as technologies change, I’m currently focusing on Vue.js, Nuxt.js, Node.js, aswell as React.js and Serverless architectures.
 
 <!--
 **djrasmusp/djrasmusp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
