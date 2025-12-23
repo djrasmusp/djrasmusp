@@ -2,7 +2,7 @@
 
 I’m a full-stack developer from Denmark🇩🇰 with a passion for building seamless and engaging web experiences. I enjoy navigating the space between elegant frontends and solid backend architecture—bringing ideas to life with both creativity and precision.
 
-Driven by curiosity and a love for lifelong learning, I’m always exploring new technologies and sharing insights with others. 
+Driven by curiosity and a love for lifelong learning, I’m always exploring new technologies and sharing insights with others. <br />
 I use HTML, CSS, Javascript and TypeScript. While I adapt my focus as technologies change, I’m currently focusing on Vue.js, React.js, Node.js, aswell as  Nuxt.js and Serverless architectures.
 
 
